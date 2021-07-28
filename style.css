@@ -17,7 +17,8 @@ header{
 .button{
     width: 168px;
     height: 44px;
-    padding: 10px;
+    font-size: 16px;
+    padding: 8px;
     border-radius: 5px;
     background-color:#e68a00;
     color: white;
