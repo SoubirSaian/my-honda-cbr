@@ -13,6 +13,7 @@ header{
 .navbar-light .navbar-nav .nav-link{
     color:white;
 }
+      /* button-common-class */
 .button{
     width: 168px;
     height: 44px;
@@ -21,6 +22,8 @@ header{
     background-color:#e68a00;
     color: white;
 }
+
+      /* top-banner  */
 .top-banner h1{
     font-size: 48px;
     color: white;
@@ -48,4 +51,25 @@ header{
 .grey-scale{
     -webkit-filter: grayscale(90%);
     filter: grayscale(90%);
+}
+
+/* client section  */
+
+.client-part .color-header{
+    color: #E76F51;
+}
+.client-part p{
+    font-size: 16px;
+    line-height: 26px;
+}
+.client-part .fa-star{
+    width: 22px;
+    height: 22px;
+    color: sandybrown;
+}
+.client-part .client-name{
+    color: steelblue;
+}
+.client-part .round-img{
+    border-radius: 50%;
 }
