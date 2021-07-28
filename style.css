@@ -55,7 +55,7 @@ header{
 
 /* client section  */
 
-.client-part .color-header{
+.color-header{
     color: #E76F51;
 }
 .client-part p{
@@ -73,3 +73,5 @@ header{
 .client-part .round-img{
     border-radius: 50%;
 }
+   /* bottom-banner */
+
