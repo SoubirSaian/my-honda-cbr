@@ -35,3 +35,17 @@ header{
 .top-banneer img{
     width: 90%;
 }
+
+/* feature image section  */
+.feature-img p{
+    color:#E76F51;
+    margin-bottom: 40px;
+}
+.feature-img img{
+    width: 100%;
+    padding: 10%;
+}
+.grey-scale{
+    -webkit-filter: grayscale(90%);
+    filter: grayscale(90%);
+}
