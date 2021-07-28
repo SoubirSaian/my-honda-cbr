@@ -5,3 +5,33 @@ body{
     margin: 0;
     font-family: 'Poppins', sans-serif;
 }
+
+
+header{
+    background-color: #264653;
+}
+.navbar-light .navbar-nav .nav-link{
+    color:white;
+}
+.button{
+    width: 168px;
+    height: 44px;
+    padding: 10px;
+    border-radius: 5px;
+    background-color:#e68a00;
+    color: white;
+}
+.top-banner h1{
+    font-size: 48px;
+    color: white;
+}
+.top-banner p{
+    color: #E0E0E0;
+    font-size: 16px;
+    font-weight: 300;
+    line-height: 24px;
+}
+
+.top-banneer img{
+    width: 90%;
+}
