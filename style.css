@@ -24,6 +24,8 @@ header{
     color: white;
 }
 
+ 
+
       /* top-banner  */
 .top-banner h1{
     font-size: 48px;
@@ -76,3 +78,19 @@ header{
 }
    /* bottom-banner */
 
+   /* press-release-section */
+.press-bg{
+    background-color: #f0f0f5;
+}
+
+/* company-achievement area  */
+
+.com-stat{
+    background-color: #9999ff;
+}
+.com-stat h4{
+    color: white;
+}
+.stat-number{
+    font-size: 50px;
+}
