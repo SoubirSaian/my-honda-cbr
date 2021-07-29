@@ -83,7 +83,7 @@ header{
 .press-release{
     padding-top: 25px;
     padding-bottom: 25px;
-    box-shadow: 2px 2px 5px grey;
+    box-shadow: 0px 0px 5px grey;
 }
 .press-bg{
     background-color: #f0f0f5;
@@ -128,4 +128,34 @@ footer p{
     margin-bottom: 20px;
     font-family: sans-serif;
     color: white;
+}
+
+/* @mdia query  */
+@media only  screen and (max-width: 575px) {
+    .top-banner img{
+        width: 345px;
+    }
+    .latest-bike{
+        width: 345px;
+    }
+    .respon-accord{
+        width: 345px;
+    }
+    
+}
+
+@media only screen and (min-width:576px) and (max-width: 1199px){
+    .top-banner img{
+        width: 510px;
+    }
+    
+}
+@media only screen and (max-width: 991px){
+    footer{
+        height: auto;
+    }
+    .footer-left{
+        padding-top: 30px;
+        padding-left: 30px;
+    }
 }
