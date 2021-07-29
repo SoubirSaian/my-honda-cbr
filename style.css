@@ -80,6 +80,11 @@ header{
    /* bottom-banner */
 
    /* press-release-section */
+.press-release{
+    padding-top: 25px;
+    padding-bottom: 25px;
+    box-shadow: 2px 2px 5px grey;
+}
 .press-bg{
     background-color: #f0f0f5;
 }
@@ -87,11 +92,40 @@ header{
 /* company-achievement area  */
 
 .com-stat{
-    background-color: #9999ff;
+    box-shadow: 2px 0px 10px #1a1aff;
+     
 }
 .com-stat h4{
-    color: white;
+    color: #1a1aff;
 }
 .stat-number{
     font-size: 50px;
+}
+
+/* footer section  */
+footer{
+    height: 200px;
+    background-color: #000080;
+}
+.footer-left{
+    padding-top: 60px;
+    padding-left: 100px;
+
+}
+footer a{
+    text-decoration: none;
+    color: white;
+    font-family: sans-serif;
+    font-weight: 400;
+}
+footer p{
+    color: white;
+    font-family: sans-serif;
+    font-weight: 300;
+}
+.footer-right h3{
+    margin-top: 40px;
+    margin-bottom: 20px;
+    font-family: sans-serif;
+    color: white;
 }
